@@ -1,0 +1,7 @@
+interface:
+  display_name: "McKinsey & BCG Consulting"
+  short_description: "Consulting frameworks for strategy and execution"
+  default_prompt: "Use $mckinsey-bcg-consulting to structure this business problem and recommend the right analysis path."
+
+policy:
+  allow_implicit_invocation: true
